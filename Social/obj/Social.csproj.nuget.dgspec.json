@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YAHYA\\Desktop\\Software_Stuff\\WebDev\\Social\\Social.csproj": {}
+    "C:\\Users\\YAHYA\\Desktop\\Software_Stuff\\SocialMedia\\Social\\Social.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YAHYA\\Desktop\\Software_Stuff\\WebDev\\Social\\Social.csproj": {
+    "C:\\Users\\YAHYA\\Desktop\\Software_Stuff\\SocialMedia\\Social\\Social.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YAHYA\\Desktop\\Software_Stuff\\WebDev\\Social\\Social.csproj",
+        "projectUniqueName": "C:\\Users\\YAHYA\\Desktop\\Software_Stuff\\SocialMedia\\Social\\Social.csproj",
         "projectName": "Social",
-        "projectPath": "C:\\Users\\YAHYA\\Desktop\\Software_Stuff\\WebDev\\Social\\Social.csproj",
+        "projectPath": "C:\\Users\\YAHYA\\Desktop\\Software_Stuff\\SocialMedia\\Social\\Social.csproj",
         "packagesPath": "C:\\Users\\YAHYA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YAHYA\\Desktop\\Software_Stuff\\WebDev\\Social\\obj\\",
+        "outputPath": "C:\\Users\\YAHYA\\Desktop\\Software_Stuff\\SocialMedia\\Social\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\YAHYA\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ILsW2R9NZ+arf/dSZC7NXBBMuv0BMcuvh07V5cWNBF8lf40EYQPDx9ox+iPtvPKXrRxPI64ML0Uh9e8/dXN1AQ==",
+  "dgSpecHash": "FUhS4dnbP8yvKbngfxa+J+U1XmAKsKN8BvgGZhlUWIE6PZ7f1BHiPUJH3nM0WhwYpxFJxLsn8WsaOATHBT4SYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YAHYA\\Desktop\\Software_Stuff\\WebDev\\Social\\Social.csproj",
+  "projectFilePath": "C:\\Users\\YAHYA\\Desktop\\Software_Stuff\\SocialMedia\\Social\\Social.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YAHYA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\YAHYA\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
