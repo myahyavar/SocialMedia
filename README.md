@@ -5,7 +5,7 @@ API does the basic CRUD stuff and a file action
 
 Has React-Redux on login validation
 
-Pictures are kept in server sive
+Pictures are kept in server side
 
 Login validation currently works more like registeration of user, Registeration DB and API needs to be modifiet a bit for a trve login validation :p
 
