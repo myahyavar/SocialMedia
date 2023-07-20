@@ -7,6 +7,8 @@ Has React-Redux on login validation
 
 Pictures are kept in server side
 
-Login validation currently works more like registeration of user, Registeration DB and API needs to be modifiet a bit for a trve login validation :p
+Login validation currently works more like registeration of user, Registeration DB and API needs to be modified a bit for a trve login validation :p
 
 
+![login](https://github.com/myahyavar/SocialMedia/assets/89209381/90817793-275c-4c84-8e37-54017783373c)
+![ui](https://github.com/myahyavar/SocialMedia/assets/89209381/91929ecc-566b-4c07-8f9c-19cffa655006)
